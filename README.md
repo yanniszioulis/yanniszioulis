@@ -26,7 +26,7 @@ languages:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yanniszioulis&show_icons=true&include_all_commits=true&theme=bear)](https://github-stats-extended.vercel.app/api?username=yanniszioulis&show_icons=true&include_all_commits=true&theme=bear)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanniszioulis/yanniszioulis/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanniszioulis/yanniszioulis/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yanniszioulis/yanniszioulis/output/github-snake.svg" />
 </picture>
